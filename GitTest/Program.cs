@@ -5,5 +5,6 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         System.Console.WriteLine("Всем привет");
+        System.Console.WriteLine("Всем привет второй раз");
     }
 }
